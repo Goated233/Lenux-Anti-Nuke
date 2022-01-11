@@ -1,10 +1,10 @@
 {
 
   
-        "whitelist": [],
-    "bypass": [],
-    "owner": [],
-    "token": "BOT-TOKEN-HERE",
+        "whitelist": [802390956363743232],
+    "bypass": [802390956363743232],
+    "owner": [802390956363743232],
+    "token": "ODU0MDU1NDk1MDQyOTkwMTEw.YMeXKQ.RyHh4zoRsEqUSUIpBzudpgWLb_Y",
     "blacklist": []
 
 }
